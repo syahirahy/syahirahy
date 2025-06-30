@@ -3,6 +3,7 @@
 🎓3rd Year [Computer Science](https://www.utm.my/) student at Universiti Teknologi Malaysia<br/>
 💻Bachelor of Computer Science (Graphics and Multimedia Software)<br/>
 🔎Currently seeking for internship (Sep 2025 - Feb 2026)<br/>
+📖CGPA: 3.02 <br/>
 
   <a href="mailto:syahirah94@graduate.utm.my" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
